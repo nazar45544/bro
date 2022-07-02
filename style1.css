@@ -11,11 +11,7 @@ head {
 header {
      background-color: #ffff00;
     text-align: center;
-    justify-content : space-between;
-    padding: ;
-    margin-bottom: 20px;
-    display: flex;
-    
+    margin-bottom: 20px; 
 }
 .button {
     background-color: #ffe522;
